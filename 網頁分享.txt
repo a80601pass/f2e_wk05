@@ -1,0 +1,14 @@
+﻿FL Studio
+https://www.image-line.com/flstudio/
+
+Studio One
+https://www.presonus.com/products/Studio-One
+
+Ableton Live
+https://www.ableton.com/en/live/
+
+本次作業我所模仿設計的是音樂工作站軟體的產品網頁，在尋找相關資料的過程中，我發現其網頁的設計方式皆有著類似的格局，而上述三者為我認為其中較為經典且傑出的例子。
+
+FL Studio 的產品網頁中在功能介紹的部分大量的放置了圖片及影片，使瀏覽較為輕鬆。網頁內容則是相較其他網站多放入各版本之比較，及底部較多連結之導覽列，對於客戶而言較為方便。
+Studio One的網頁設計結構最為經典且標準，除了開頭的主形象圖外，內容亦以配合Z字形瀏覽作排列，且內文的整理也以條列式作呈現，內容呈現較為詳細。
+Ableton Live亦以Z字形瀏覽的原則做設計，但敘述相較於其他網頁內容更為詳細，亦以展開及收合的方式條列式的整理及歸結內容，保持畫面的整齊。
